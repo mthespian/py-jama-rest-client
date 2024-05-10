@@ -161,7 +161,7 @@ setup / customization by calling `logging.getLogger('py_jama_rest_client')`
 
 
 #### Get all projects
-1) Download [get_all_projets.py](https://github.com/JamaSoftware/py-jama-rest-client/tree/master/examples) 
+1) Download [get_all_projects.py](https://github.com/JamaSoftware/py-jama-rest-client/tree/master/examples) 
 to your example_project directory
 2) Enter your Jama URL, username, and password into the corrisponding variables at the top of the file.
 3) To execute the script execute the following form your example_project directory: 
